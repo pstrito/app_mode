@@ -1,17 +1,17 @@
 # Python environment with a requirements.txt
 
 #[![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/binder-examples/requirements/master)
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/pstrito/app_mode.git/main?filepath=calculator.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/pstrito/app_mode.git/main?filepath=Calculator.ipynb)
 
 A Binder-compatible repo with a `requirements.txt` file.
 
 Access this Binder at the following URL
 
 #http://mybinder.org/v2/gh/binder-examples/requirements/master
-https://mybinder.org/v2/gh/pstrito/app_mode.git/main?filepath=calculator.ipynb
+https://mybinder.org/v2/gh/pstrito/app_mode.git/main?filepath=Calculator.ipynb
 
 .. image:: https://mybinder.org/badge_logo.svg
- :target: https://mybinder.org/v2/gh/pstrito/app_mode.git/main?filepath=calculator.ipynb
+ :target: https://mybinder.org/v2/gh/pstrito/app_mode.git/main?filepath=Calculator.ipynb
 
 ## Notes
 The `requirements.txt` file should list all Python libraries that your notebooks
