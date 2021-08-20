@@ -9,6 +9,9 @@ Access this Binder at the following URL
 
 #http://mybinder.org/v2/gh/binder-examples/requirements/master
 https://mybinder.org/v2/gh/pstrito/app_mode.git/main?filepath=Calculator.ipynb
+https://mybinder.org/v2/gh/pstrito/app_mode.git/main?urlpath=apps%2FCalculator.ipynb
+
+
 
 .. image:: https://mybinder.org/badge_logo.svg
  :target: https://mybinder.org/v2/gh/pstrito/app_mode.git/main?filepath=Calculator.ipynb
