@@ -1,6 +1,7 @@
 channels:
   - conda-forge
 dependencies:
+  - appmode
   - numpy
   - psutil
   - toolz
