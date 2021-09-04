@@ -1,5 +1,6 @@
 channels:
   - conda-forge
+  - default
 dependencies:
   - appmode
   - numpy
@@ -11,3 +12,5 @@ dependencies:
   - partd
   - bokeh
   - dask
+  - pip:
+      - jupyterthemes
