@@ -21,3 +21,4 @@ partd == 1.2.0
 bokeh == 2.3.3
 dask == 2021.8.0
 jupyterthemes == 0.20.0
+appmode == 0.8.0
