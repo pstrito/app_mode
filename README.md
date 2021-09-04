@@ -1,20 +1,16 @@
 # Python environment with a requirements.txt
 
-
-
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/pstrito/app_mode.git/main)
-
-
+#[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/pstrito/app_mode.git/main)
+#[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/kokoroteam/RetirementBinder.git/main?urlpath=%2Fapps%2FRetirementGme.ipynb)
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/pstrito/app_mode.git/main?urlpath=%2Fapps%2FCalculator.ipynb)
 
 A Binder-compatible repo with a `requirements.txt` file.
 
 Access this Binder at the following URL
 
-
-https://mybinder.org/v2/gh/pstrito/app_mode.git/main?urlpath=apps%2FCalculator.ipynb
-
  .. image:: https://mybinder.org/badge_logo.svg
- :target: https://mybinder.org/v2/gh/pstrito/app_mode.git/main
+ :target: https://mybinder.org/v2/gh/pstrito/app_mode.git/main?filepath=Calculator.ipynb
+
 
 
 ## Notes
